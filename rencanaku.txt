@@ -1,7 +1,6 @@
 - melakukan A
 - ganti dg X
 - menambah D
-- ganti dg Y
-- menambah F
 - tambah 1
 - tambah 2
+- ini hanya ada di branch coba-coba yg baru
