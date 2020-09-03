@@ -37,7 +37,7 @@ def main():
 
     fgt = FortiOSAPI()
 
-    fgt.login(ip, 'admin', passwd, verify=False)
+    fgt.login(ip, 'admin', passwd )
     data = {
         'name': "apiset",
         "scan-mode": "quick",
