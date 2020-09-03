@@ -1,3 +1,6 @@
 - melakukan A
 - melakukan B
 - melakukan C
+- menambah D
+- menambah E
+- menambah F
