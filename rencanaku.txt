@@ -1,6 +1,7 @@
 - melakukan A
-- melakukan B
-- melakukan C
+- ganti dg X
 - menambah D
-- menambah E
+- ganti dg Y
 - menambah F
+- tambah 1
+- tambah 2
