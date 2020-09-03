@@ -1,0 +1,3 @@
+- melakukan A
+- melakukan B
+- melakukan C
